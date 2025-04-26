@@ -1,4 +1,4 @@
-N = int(input())
-
-  for k in range(N):
-      print(k)
+   N = int(input("Input N: "))
+   
+   for K in range(N):
+       prin(K)
